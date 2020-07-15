@@ -1,0 +1,75 @@
+body {
+  text-align: center;
+  background-color: #283149;
+}
+
+h1{
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+   margin-bottom: 4%;
+   padding-right: 3%;
+   text-shadow:2px 2px #DA0463;
+
+}
+footer{
+  margin-top: 150px;
+  font-family: sans-serif;
+  padding-right: 3%;
+  color: #DBEDF3;
+   text-shadow:2px 2px #DA0463;
+   font-family: "Arvo", cursive;
+}
+.keys{
+
+
+    margin-top: 120px;
+        padding-right: 20px;
+        padding-left: 20px;
+}
+.w{
+
+background-image: url("https://i.postimg.cc/qMh15Hp5/tom1.png");
+
+}
+.a{
+background-image: url("https://i.postimg.cc/fWFKXqYj/tom2.png");
+}
+.s{
+background-image: url("https://i.postimg.cc/130ck92J/tom3.png");
+}
+.d{
+background-image: url("https://i.postimg.cc/3wKC7sH7/tom4.png");
+}
+.j{
+background-image: url("https://i.postimg.cc/vBKWrDxH/snare.png");
+}
+.k{
+background-image: url("https://i.postimg.cc/GpqPpXcD/crash.png");
+}
+.l{
+background-image: url("https://i.postimg.cc/MTH7f1TF/kick.png");
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+.drum{
+
+    outline: none;
+    border: 10px solid #404B69;
+    font-size: 5rem;
+    font-family: 'Arvo', cursive;
+    line-height: 2;
+    font-weight: 900;
+    color: #DA0463;
+    text-shadow: 3px 0 #DBEDF3;
+    border-radius: 15px;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    margin: 10px;
+    background-color: white;
+  }
